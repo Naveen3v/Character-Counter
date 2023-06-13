@@ -1,0 +1,10 @@
+.list-item {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+}
+.paraList {
+  font-family: 'Roboto';
+  font-size: 20px;
+  color: black;
+}
